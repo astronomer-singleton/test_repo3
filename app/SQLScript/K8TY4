@@ -1,0 +1,1 @@
+insert into user(email,password,role) VALUES('user1','$2y$10$8ey/hzWDr8gDzky5hGCn7.oo.doYtRxxQpYRtEqCHPYqjNX1bos5y','["ROLE_ADMIN","ROLE_USER"]');
